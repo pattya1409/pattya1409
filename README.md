@@ -9,7 +9,7 @@
 - 💻 Learning Java Full Stack Development
 - 🌱 Currently learning Spring Boot, React, and MySQL
 - 🤖 Interested in AI & Data Science
-- 📫 Email: your-email@gmail.com
+- 📫 Email: pprathamesh244@gmail.com 
 - ⚡ Fun Fact: I love solving coding problems.
 
 ---
@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="mailto:pprathamesh244@gmail.com">
+<a href="mailto:pprathamesh244@gmail.com"> 
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
@@ -109,18 +109,3 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
-
-<!--
-**pattya1409/pattya1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
