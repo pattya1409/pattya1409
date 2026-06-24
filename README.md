@@ -66,11 +66,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pattya1409&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pattya1409&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattya1409&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -79,7 +79,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pattya1409&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 ---
@@ -87,7 +87,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pattya1409&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pattya1409&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,6 +108,14 @@
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
 ## ✨ Quote
 
 > "Code. Learn. Build. Repeat."
@@ -107,5 +123,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pattya1409&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
