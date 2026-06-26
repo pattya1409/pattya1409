@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
-<h3 align="center">MCA Student | Java Full Stack Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">MCA Student | Java Full Stack Developer </h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -8,7 +8,6 @@
 - 🎓 MCA Student
 - 💻 Learning Java Full Stack Development
 - 🌱 Currently learning Spring Boot, React, and MySQL
-- 🤖 Interested in AI & Data Science
 - 📫 Email: pprathamesh244@gmail.com 
 - ⚡ Fun Fact: I love solving coding problems.
 
@@ -21,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/yourusername" target="blank">
+<a href="https://github.com/pattya1409" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
@@ -66,11 +65,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pattya1409&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pattya1409&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattya1409&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -79,7 +78,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pattya1409&theme=algolia&row=1&column=6"/>
 </p>
 
 ---
@@ -87,7 +86,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pattya1409&theme=tokyo-night"/>
 </p>
 
 ---
@@ -107,5 +106,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pattya1409&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
