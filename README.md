@@ -1,120 +1,347 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
-<h3 align="center">MCA Student | Java Full Stack Developer </h3>
+Act as a Senior Front-End Developer and UI/UX Designer.
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+Create a premium, modern, fully responsive personal portfolio website inspired by the MoncyDev Portfolio Website, but DO NOT copy its code or branding. Create an original design with smooth animations, unique layouts, and modern UI.
 
-## 🚀 About Me
+Use:
 
-- 🎓 MCA Student
-- 💻 Learning Java Full Stack Development
-- 🌱 Currently learning Spring Boot, React, and MySQL
-- 📫 Email: pprathamesh244@gmail.com 
-- ⚡ Fun Fact: I love solving coding problems.
+• React 19
+• Vite
+• JSX
+• Tailwind CSS
+• Framer Motion
+• GSAP
+• React Icons
+• EmailJS
+• React Router
+• Lenis Smooth Scroll
+• Typed.js
+• Three.js (optional for hero background)
 
----
+The website must be responsive for Mobile, Tablet and Desktop.
 
-## 🌐 Connect with Me
+=========================
+PERSONAL DETAILS
+=========================
 
-<p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+Name:
+Prathamesh Patil
 
-<a href="https://github.com/yourusername" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+Role:
+Frontend Developer
 
-<a href="mailto:pprathamesh244@gmail.com"> 
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+Tagline:
+Building Modern, Responsive and Interactive Web Applications.
 
----
+Email:
+pprathamesh244@gmail.com
 
-## 💻 Tech Stack
+GitHub:
+https://github.com/pattya1409
 
-<p align="left">
+LinkedIn:
+https://www.linkedin.com/in/prathamesh-patil-396863320/
 
-<img src="https://skillicons.dev/icons?i=java"/>
+Resume Button:
+Download Resume
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+About Me:
 
-<img src="https://skillicons.dev/icons?i=html"/>
+I am an MCA graduate and passionate Frontend Developer skilled in HTML, CSS, JavaScript, React, Redux, Git and GitHub. I enjoy creating modern, responsive and user-friendly web applications with clean UI and smooth animations. I am continuously learning new technologies and building real-world projects to improve my development skills.
 
-<img src="https://skillicons.dev/icons?i=css"/>
+=========================
+SKILLS
+=========================
 
-<img src="https://skillicons.dev/icons?i=js"/>
+Frontend
 
-<img src="https://skillicons.dev/icons?i=react"/>
+HTML5
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+CSS3
 
-<img src="https://skillicons.dev/icons?i=git"/>
+JavaScript
 
-<img src="https://skillicons.dev/icons?i=github"/>
+React.js
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+Redux
 
-<img src="https://skillicons.dev/icons?i=eclipse"/>
+Tailwind CSS
 
-</p>
+Bootstrap
 
----
+Responsive Design
 
-## 📊 GitHub Stats
+Tools
 
-<p align="center">
+Git
 
-<img src="https://github-readme-stats.vercel.app/api?username=pattya1409&show_icons=true&theme=tokyonight"/>
+GitHub
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pattya1409&theme=tokyonight"/>
+VS Code
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattya1409&layout=compact&theme=tokyonight"/>
+Vite
 
-</p>
+Figma
 
----
+Netlify
 
-## 🏆 GitHub Trophies
+Vercel
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pattya1409&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p>
+Other
 
----
+Data Analytics
 
-## 📈 Contribution Graph
+Power BI
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pattya1409&theme=tokyo-night"/>
-</p>
+SQL
 
----
+Excel
 
-## 🔥 GitHub Streak
+=========================
+SECTIONS
+=========================
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pattya1409&theme=tokyonight&hide_border=true" />
-</p>
+Sticky Navbar
 
----
+Hero Section
 
-## 🐍 Contribution Snake
+About
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+Skills
 
----
+Projects
 
+Experience
 
+Education
 
-## ✨ Quote
+Achievements
 
-> "Code. Learn. Build. Repeat."
+Certificates
 
----
+Contact
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pattya1409&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+Footer
+
+=========================
+PROJECTS
+=========================
+
+Read all repositories from this GitHub profile:
+
+https://github.com/pattya1409
+
+Automatically create attractive project cards using the repositories.
+
+For every project display:
+
+Project Image
+
+Project Name
+
+Description
+
+Technology Stack
+
+GitHub Button
+
+Live Demo Button (if deployed)
+
+Animated Hover Effects
+
+Featured Projects should include:
+
+Task Management App
+
+Portfolio Website
+
+React Projects
+
+JavaScript Projects
+
+HTML/CSS Projects
+
+Any deployed applications available in the GitHub profile.
+
+If a repository has a GitHub Pages, Netlify or Vercel deployment, automatically display the Live Demo button.
+
+=========================
+TASK MANAGEMENT PROJECT
+=========================
+
+Highlight this project as Featured.
+
+Features:
+
+Add Task
+
+Edit Task
+
+Delete Task
+
+Complete Task
+
+Undo Task
+
+Search Tasks
+
+Filter Tasks
+
+Local Storage
+
+Responsive Design
+
+Modern UI
+
+=========================
+EXPERIENCE
+=========================
+
+KodNest Internship
+
+Frontend Development Internship
+
+Display internship certificate section.
+
+=========================
+EDUCATION
+=========================
+
+Master of Computer Applications (MCA)
+
+Bachelor Degree
+
+=========================
+CERTIFICATES
+=========================
+
+Display certificates in attractive cards with hover animations.
+
+=========================
+CONTACT
+=========================
+
+Email
+
+GitHub
+
+LinkedIn
+
+Contact Form using EmailJS
+
+Social Icons
+
+=========================
+DESIGN
+=========================
+
+Dark Theme
+
+Glassmorphism
+
+Gradient Background
+
+Animated Gradient
+
+Mouse Glow Effect
+
+Custom Cursor
+
+Particles Background
+
+Animated Blob
+
+Scroll Progress Bar
+
+Smooth Scrolling
+
+Animated Section Reveal
+
+Magnetic Buttons
+
+Floating Icons
+
+Typing Animation
+
+Animated Skills
+
+Project Tilt Effect
+
+Project Hover Animation
+
+Animated Counters
+
+Beautiful Footer
+
+=========================
+EXTRA FEATURES
+=========================
+
+SEO Optimized
+
+Loading Screen
+
+404 Page
+
+Back to Top Button
+
+Download Resume Button
+
+Theme Toggle
+
+Responsive Navigation
+
+Accessibility
+
+Fast Performance
+
+Lazy Loading
+
+Code Splitting
+
+=========================
+FOLDER STRUCTURE
+=========================
+
+src
+
+assets
+
+components
+
+pages
+
+hooks
+
+context
+
+animations
+
+styles
+
+utils
+
+App.jsx
+
+main.jsx
+
+=========================
+OUTPUT
+=========================
+
+Generate the COMPLETE project with every file.
+
+Generate all React components.
+
+Generate Tailwind configuration.
+
+Generate package.json.
+
+Generate README.md.
+
+Generate deployment instructions.
+
+The project should be production-ready.
+
+The final website should look like a premium developer portfolio that can impress recruiters from companies like TCS, Infosys, Accenture, Capgemini, Cognizant, Wipro, Deloitte, IBM, Microsoft and Google.
+
+Do not use placeholder content. Use my real details wherever appropriate.
